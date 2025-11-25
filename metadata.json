@@ -1,0 +1,5 @@
+{
+  "name": "MySQL-Slack Bridge Console",
+  "description": "A developer dashboard to simulate, architect, and document a secure MySQL-to-Slack integration.",
+  "requestFramePermissions": []
+}
